@@ -28,7 +28,7 @@ Este ebook é um guia divertido e didático para iniciantes que estão começand
 Conclusão e agradecimentos
 
 ## Contribuições 🤝
-Contribuições são bem-vindas! Se você tiver sugestões, encontrar erros ou quiser adicionar algo novo, sinta-se à vontade para abrir um pull request ou uma issue.
+Contribuições são bem-vindas! Se você tiver sugestões, encontrar erros ou quiser adicionar algo novo, sinta-se à vontade para abrir uma issue.
 
 ## Autora 👩‍💻
 Este ebook foi escrito com carinho por Pablynne Caldeira.
